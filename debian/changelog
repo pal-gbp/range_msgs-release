@@ -1,0 +1,22 @@
+ros-indigo-range-msgs (1.1.2-0trusty) trusty; urgency=high
+
+  * Merge pull request #1 <https://github.com/robotics-upo/range_msgs/issues/1> from procopiostein/fix-compilation
+    Fix compilation
+  * cosmetic identation fixes
+  * removed unnecessary install rules that were causing compilation error
+  * changed package to format 2
+    also added url info for repo and issues
+  * Contributors: Fernando Caballero, Procópio Stein
+
+ -- Felipe R. Fabresse (University of Seville) <felramfab@gmail.com>  Tue, 17 Jan 2017 23:00:00 -0000
+
+ros-indigo-range-msgs (1.1.1-0trusty) trusty; urgency=high
+
+  * changelog
+  * Initial version
+  * Initial commit
+  * Contributors: Fernando Caballero
+
+ -- Felipe R. Fabresse (University of Seville) <felramfab@gmail.com>  Sun, 15 Jan 2017 23:00:00 -0000
+
+
